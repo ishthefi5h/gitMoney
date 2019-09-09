@@ -1,1 +1,5 @@
-yuh
+git pull --set-upstream origin develop
+	//set where to push to
+
+git checkout f/test
+	//switch between branches
